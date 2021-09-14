@@ -1,4 +1,8 @@
-SUM_CONSTANT = 1            #These contstants make it easier and more readable
+# Python Program 01 - Calculator Spicy Version
+# Alden Dent
+# 9/14/21
+
+SUM_CONSTANT = 1            #These constants make it easier and more readable
 DIFFERENCE_CONSTANT = 2     #to pass the operation to the function 
 PRODUCT_CONSTANT = 3
 QUOTIENT_CONSTANT = 4
