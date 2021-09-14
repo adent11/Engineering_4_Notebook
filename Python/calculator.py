@@ -16,7 +16,7 @@ def doMath(num1, num2, operation):
     if operation == PRODUCT_CONSTANT:
         return num1 * num2
     if operation == QUOTIENT_CONSTANT:
-        return num1 / num2
+        return round(num1 / num2, 2)
     if operation == MODULO_CONSTANT:
         return num1 % num2
 
