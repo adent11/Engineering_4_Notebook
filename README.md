@@ -17,17 +17,17 @@ In this assignment I made a function that allows you to do addition, subtraction
 
 <details><summary><b>Vanilla Version</b></summary><br/>
 
-[Calculator Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/calculator.py)
+[Calculator Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/calculator.py)<br/><br/>
 Program Output:<br/>
-<IMG SRC="Media/PythonCalculatorSpicy.PNG" width="250" height="118"> <br/>
+<IMG SRC="Media/PythonCalculator.png" width="250" height="240"> <br/>
 
 <br/></details>
 
 <details><summary><b>Spicy Version</b></summary><br/>
  
-[Calculator Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/calculator_spicy.py)
+[Calculator Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/calculator_spicy.py)<br/><br/>
 Program Output:<br/>
-<IMG SRC="Media/PythonCalculatorSpicy.PNG" width="250" height="118"> <br/>
+<IMG SRC="Media/PythonCalculatorSpicy.PNG" width="250" height="293"> <br/>
 <br/></details>
 
 ### Reflection
