@@ -18,14 +18,16 @@ In this assignment I made a function that allows you to do addition, subtraction
 <details><summary><b>Vanilla Version</b></summary><br/>
 
 [Calculator Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/calculator.py)
-
+Program Output:<br/>
+<IMG SRC="Media/PythonCalculatorSpicy.PNG" width="250" height="118"> <br/>
 
 <br/></details>
 
 <details><summary><b>Spicy Version</b></summary><br/>
  
 [Calculator Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/calculator_spicy.py)
-  
+Program Output:<br/>
+<IMG SRC="Media/PythonCalculatorSpicy.PNG" width="250" height="118"> <br/>
 <br/></details>
 
 ### Reflection
