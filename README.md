@@ -27,7 +27,7 @@ Program Output:<br/>
  
 [Calculator Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/calculator_spicy.py)<br/><br/>
 Program Output:<br/>
-<IMG SRC="Media/PythonCalculatorSpicy.PNG" width="250" height="293"> <br/>
+<IMG SRC="Media/PythonCalculatorSpicy.png" width="250" height="293"> <br/>
 <br/></details>
 
 ### Reflection
