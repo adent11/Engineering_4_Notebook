@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-* [Python Calculator](#PythonCalculator)
+* [Python Calculator](#Python_Calculator)
 * [Python Quadratic Solver](#PythonQuadraticSolver)
 * [Python Strings and Lists](#PythonStringsandLists)
 ---
 
 
-## Python Calculator
+## Python_Calculator
 
 ### Assignment Description
 
