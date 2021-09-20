@@ -69,7 +69,7 @@ This assignment taught me the syntax for squaring things in Python, ``` a ** x `
 
 ### Assignment Description
 
-
+In this assignment, I wrote a program that takes a sentence input by the user and prints out each character on a new line, with a - after each word. For the spicy version, I condensed the whole program into one line of code, retaining the same functionality.
 
 ### Evidence
  
@@ -90,4 +90,5 @@ Program Output:<br/>
 <br/></details>
  
 ### Reflection
- 
+
+
