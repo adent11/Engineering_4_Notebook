@@ -77,7 +77,7 @@ In this assignment, I wrote a program that takes a sentence input by the user an
 
 [Strings and Lists Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/strings_and_lists.py)<br/><br/>
 Program Output:<br/>
-<IMG SRC="Media/PythonStringsAndLists.png" width="250" height="251"> <br/>
+<IMG SRC="Media/PythonStringsAndLists.png" width="250" height="318"> <br/>
 
 <br/></details>
  
@@ -85,7 +85,7 @@ Program Output:<br/>
 
 [Strings and Lists Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/strings_and_lists_spicy.py)<br/><br/>
 Program Output:<br/>
-<IMG SRC="Media/PythonStringsAndLists.png" width="250" height="290"> <br/>
+<IMG SRC="Media/PythonStringsAndLists.png" width="250" height="318"> <br/>
 
 <br/></details>
  
