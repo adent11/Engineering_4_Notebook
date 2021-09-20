@@ -85,7 +85,7 @@ Program Output:<br/>
 
 [Strings and Lists Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/strings_and_lists_spicy.py)<br/><br/>
 Program Output:<br/>
-<IMG SRC="Media/PythonStringsAndListsSpicy.png" width="250" height="290"> <br/>
+<IMG SRC="Media/PythonStringsAndLists.png" width="250" height="290"> <br/>
 
 <br/></details>
  
