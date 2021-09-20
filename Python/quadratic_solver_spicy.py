@@ -1,4 +1,4 @@
-# Python Program 02 - Quadratic Solver
+# Python Program 02 - Quadratic Solver Spicy
 # Alden Dent
 # 9/16/21
 
