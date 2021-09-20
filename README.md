@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* [Python Calculator](#Python_Calculator)
-* [Python Quadratic Solver](#Python_Quadratic_Solver)
-* [Python Strings and Lists](#Python_Strings_and_Lists)
+* [Python Calculator](#PythonCalculator)
+* [Python Quadratic Solver](#PythonQuadraticSolver)
+* [Python Strings and Lists](#PythonStringsandLists)
 ---
 
 
