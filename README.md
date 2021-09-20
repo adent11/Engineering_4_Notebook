@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [Python Calculator](#Python_Calculator)
-* [Python Quadratic Solver](#PythonQuadraticSolver)
-* [Python Strings and Lists](#PythonStringsandLists)
+* [Python Quadratic Solver](#Python_Quadratic_Solver)
+* [Python Strings and Lists](#Python_Strings_and_Lists)
 ---
 
 
@@ -36,7 +36,7 @@ Program Output:<br/>
 This assignment was relatively simple, but still had many valuable lessons. Since it has been a while since I have coded in Python, reference websites like <https://www.w3schools.com/python> are very helpful for remembering syntax and giving simple descriptions and examples of how different parts of Python work. I also learned that you can return a list from a function and access the different items using ``` functionName(parameters)[itemNumber] ```.
 
  
-## Python Quadratic Solver
+## Python_Quadratic_Solver
 
 ### Assignment Description
 
@@ -65,7 +65,7 @@ Program Output:<br/>
 This assignment taught me the syntax for squaring things in Python, ``` a ** x ```, as well as how to import and use the square root function, ``` from math import sqrt ``` and ``` sqrt(x) ```. I also learned how to use f strings to be able to put variables inside of strings more easily, <br/> ``` f" This is {variableA} and {variableB}" ```.
 
  
-## Python Strings and Lists
+## Python_Strings_and_Lists
 
 ### Assignment Description
 
