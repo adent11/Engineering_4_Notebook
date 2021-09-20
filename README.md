@@ -11,7 +11,7 @@
 
 ### Assignment Description
 
-In this assignment I made a function that allows you to do addition, subtraction, multiplication, division, and remainder division. It takes three values as parameters, two numbers to do the operations with and a third value that determines which operation will be done on the other values. The spicy version added the ability to do factorials, which returns a list that includes the factorials of both numbers instead of just one number like the other operations.
+In this assignment, I made a function that allows you to do addition, subtraction, multiplication, division, and remainder division. It takes three values as parameters, two numbers to do the operations with and a third value that determines which operation will be done on the other values. The spicy version added the ability to do factorials, which returns a list that includes the factorials of both numbers instead of just one number like the other operations.
 
 ### Evidence 
 
@@ -38,6 +38,26 @@ This assignment was relatively simple, but still had many valuable lessons. Sinc
 
 ### Assignment Description
 
+In this assignment, I wrote a program that takes a, b, and c, of a quadratic equation in the form y = ax^2+bx+c, and returns the roots of the function, or a message stating that they don't exist if they are imaginary. I divided each of these tasks into different functions, one to calculate and return the discriminant, which tells you if there are real roots, another to find and return the roots. It then asks for a new set of a, b, and c, or for the user to end the program. For the spicy version, I made it print out the equation with the inputted a, b, and c plugged in, and added another function which puts the equation in vertex form.
+ 
 ### Evidence
 
+<details><summary><b>Vanilla Version</b></summary><br/>
+
+[Quadratic Solver Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/quadratic_solver.py)<br/><br/>
+Program Output:<br/>
+<IMG SRC="Media/PythonQuadraticSolver.png" width="250" height="251"> <br/>
+
+<br/></details>
+ 
+<details><summary><b>Spicy Version</b></summary><br/>
+
+[Quadratic Solver Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/quadratic_solver_spicy.py)<br/><br/>
+Program Output:<br/>
+<IMG SRC="Media/PythonQuadraticSolverSpicy.png" width="250" height="290"> <br/>
+
+<br/></details>
+ 
 ### Reflection
+
+This assignment taught me the syntax for squaring things in Python, ``` a ** x ```, as well as how to import and use the square root function, ``` from math import sqrt ``` and ``` sqrt(x) ```. I also learned how to use f strings to be able to put variables inside of strings more easily, <br/> ``` f" This is {variableA} and {variableB}" ```.
