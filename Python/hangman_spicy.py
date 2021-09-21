@@ -1,3 +1,7 @@
+# Python Challenge - MSP (Hangman)
+# Alden Dent
+# 9/21/21
+
 from random import randint
 
 head =    "   0"
