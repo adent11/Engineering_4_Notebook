@@ -4,7 +4,7 @@
 
 * [Python_Calculator](#Python_Calculator)
 * [Python_Quadratic_Solver](#Python_Quadratic_Solver)
-* [Python_Strings_and_Lists](#Python_Strings_and_Lists)
+* [Python_Strings_and_Loops](#Python_Strings_and_Loops)
 * [Python_MSP](#Python_MSP) (Hangman)
 ---
 
@@ -66,7 +66,7 @@ Program Output:<br/>
 This assignment taught me the syntax for squaring things in Python, ``` a ** x ```, as well as how to import and use the square root function, ``` from math import sqrt ``` and ``` sqrt(x) ```. I also learned how to use f strings to be able to put variables inside of strings more easily, <br/> ``` f" This is {variableA} and {variableB}" ```.
 
  
-## Python_Strings_and_Lists
+## Python_Strings_and_Loops
 
 ### Assignment Description
 
