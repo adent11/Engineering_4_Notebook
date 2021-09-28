@@ -100,6 +100,22 @@ In this assignment I learned a few things, but didn't run in to any major obstac
  In this assignment, the goal was to create a hangman game. One user enters the word, then another guesses letter until they have either guessed all letters correctly or they run out of lives. For each correct guess, that letter is added to the guess, while for each incorrect guess, a body part is added to the hangman and a life is subtracted. For the spicy version, I added a list of incorrect guesses, exceptions for if the letter entered had already been guessed or was not a single, lower case letter, a hint system, and a counter for correct guesses, incorrect guesses, and hints used.
  
  
- ### Proof
+ ### Evidence
+ 
+ <details><summary><b>Vanilla Version</b></summary><br/>
+
+[Hangman Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/hangman.py)<br/><br/>
+Program Output:<br/>
+<IMG SRC="Media/PythonStringsAndLoops.png" width="250" height="318"> <br/>
+
+<br/></details>
+ 
+<details><summary><b>Spicy Version</b></summary><br/>
+
+[Hangman Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/hangman_spicy.py)<br/><br/>
+Program Output:<br/>
+<IMG SRC="Media/PythonStringsAndLoops.png" width="250" height="318"> <br/>
+
+<br/></details>
  
  ### Reflection
