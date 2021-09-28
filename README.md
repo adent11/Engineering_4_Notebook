@@ -5,6 +5,7 @@
 * [Python_Calculator](#Python_Calculator)
 * [Python_Quadratic_Solver](#Python_Quadratic_Solver)
 * [Python_Strings_and_Lists](#Python_Strings_and_Lists)
+* [Python_MSP](#Python_MSP) (Hangman)
 ---
 
 
@@ -92,3 +93,11 @@ Program Output:<br/>
 ### Reflection
 
 In this assignment I learned a few things, but didn't run in to any major obstacles. While doing the vanilla version, I learned that in Python, you can use ```list(string)``` to create a list with each character in the string as its own element and ```string.split()``` to create a list of each substring in the string between a certain character, which defaults to a space. In the spicy version, I learned a new string method (you can replace every instance of a certain character in a string with another character using ```string.replace(oldCharacter, newCharacter)```), but my main takeaway that Python for loop syntax can be very strange; you can put a print statement on the same line before the for statement it is printing the value of, but only if you have brackets around it. (I think, at least, although I have no idea why this syntax would be used)
+ 
+ ## Python MSP
+ 
+ ### Assignment Description
+ 
+ ### Proof
+ 
+ ### Reflection
