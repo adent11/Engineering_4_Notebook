@@ -106,7 +106,7 @@ In this assignment I learned a few things, but didn't run in to any major obstac
 
 [Hangman Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/hangman.py)<br/><br/>
 Program Output:<br/>
-<IMG SRC="Media/PythonStringsAndLoops.png" width="250" height="318"> <br/>
+<IMG SRC="Media/PythonHangman.png" width="250" height="977"> <br/>
 
 <br/></details>
  
@@ -114,7 +114,7 @@ Program Output:<br/>
 
 [Hangman Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/hangman_spicy.py)<br/><br/>
 Program Output:<br/>
-<IMG SRC="Media/PythonStringsAndLoops.png" width="250" height="318"> <br/>
+<IMG SRC="Media/PythonHangmanSpicy.png" width="250" height="164"> <br/>
 
 <br/></details>
  
