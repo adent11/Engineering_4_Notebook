@@ -76,17 +76,17 @@ In this assignment, I wrote a program that takes a sentence input by the user an
  
 <details><summary><b>Vanilla Version</b></summary><br/>
 
-[Strings and Lists Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/strings_and_lists.py)<br/><br/>
+[Strings and Loops Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/strings_and_loops.py)<br/><br/>
 Program Output:<br/>
-<IMG SRC="Media/PythonStringsAndLists.png" width="250" height="318"> <br/>
+<IMG SRC="Media/PythonStringsAndLoops.png" width="250" height="318"> <br/>
 
 <br/></details>
  
 <details><summary><b>Spicy Version</b></summary><br/>
 
-[Strings and Lists Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/strings_and_lists_spicy.py)<br/><br/>
+[Strings and Loops Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/strings_and_loops_spicy.py)<br/><br/>
 Program Output:<br/>
-<IMG SRC="Media/PythonStringsAndLists.png" width="250" height="318"> <br/>
+<IMG SRC="Media/PythonStringsAndLoops.png" width="250" height="318"> <br/>
 
 <br/></details>
  
