@@ -6,6 +6,7 @@
 * [Python_Quadratic_Solver](#Python_Quadratic_Solver)
 * [Python_Strings_and_Loops](#Python_Strings_and_Loops)
 * [Python_MSP](#Python_MSP) (Hangman)
+* [Python_Sudoku_Solver](#Python_Sudoku_Solver)
 ---
 
 
@@ -120,3 +121,13 @@ Program Output:<br/>
  
  ### Reflection
 None of the logic in this assignment was too challenging, but I did learn some things about string manipulation. To replace a certain character at certain place in a string, you can use ```string = string[:place] + characterReplacement + string[place+1:]```. Also, you can use multiplication when creating a string such that ```"-"*5 == "-----"```. Other than those things, this assignment was mainly using code I already new in a new way, but the logic for the hangman game wasn't very complex.
+ 
+## Python_Sudoku_Solver
+ 
+### Assignment Description
+In this assignment, I created a Python program to solve any sudoku board.
+
+### Evidence
+
+### Reflection
+To decrease the scale of the code, I started by creating a program to solve a 4x4 sudoku. I tried to figure out the solving algorithm on my own, which led to using a very inefficient algorithm in which every possible row would be checked against the constraints given the numbers in the empty puzzle in that row, then all possible rows would be compared to see which combinations had different numbers in each column. While this worked for a 4x4 sudoku, it was far too inefficient for a 9x9 due to number of operations increasing by several orders of magnitude. When I realized that this algorithm wouldn't work for a 9x9 sudoku board, I found a solving algorithm on [this](#tutorialspoint.com/Sudoku-Solving-algorithms) website, then translated this logic to Python code.
