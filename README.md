@@ -120,7 +120,7 @@ Program Output:<br/>
 <br/></details>
  
  ### Reflection
-None of the logic in this assignment was too challenging, but I did learn some things about string manipulation. To replace a certain character at certain place in a string, you can use ```string = string[:place] + characterReplacement + string[place+1:]```. Also, you can use multiplication when creating a string such that ```"-"*5 == "-----"```. Other than those things, this assignment was mainly using code I already new in a new way, but the logic for the hangman game wasn't very complex.
+None of the logic in this assignment was too challenging, but I did learn some things about string manipulation. To replace a certain character at certain place in a string, you can use ```string = string[:index] + characterReplacement + string[index+1:]```. Also, you can use multiplication when creating a string such that ```"-"*5 == "-----"```. Other than those things, this assignment was mainly using code I already new in a new way, but the logic for the hangman game wasn't very complex.
  
 ## Python_Sudoku_Solver
  
