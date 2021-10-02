@@ -23,7 +23,6 @@ In this assignment, I made a function that allows you to do addition, subtractio
 [Calculator Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/calculator.py)<br/><br/>
 Program Output:<br/>
 <IMG SRC="Media/PythonCalculator.png" width="250" height="240"> <br/>
-
 <br/></details>
 
 <details><summary><b>Spicy Version</b></summary><br/>
@@ -51,7 +50,6 @@ In this assignment, I wrote a program that takes a, b, and c, of a quadratic equ
 [Quadratic Solver Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/quadratic_solver.py)<br/><br/>
 Program Output:<br/>
 <IMG SRC="Media/PythonQuadraticSolver.png" width="250" height="251"> <br/>
-
 <br/></details>
  
 <details><summary><b>Spicy Version</b></summary><br/>
@@ -59,7 +57,6 @@ Program Output:<br/>
 [Quadratic Solver Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/quadratic_solver_spicy.py)<br/><br/>
 Program Output:<br/>
 <IMG SRC="Media/PythonQuadraticSolverSpicy.png" width="250" height="290"> <br/>
-
 <br/></details>
  
 ### Reflection
@@ -80,7 +77,6 @@ In this assignment, I wrote a program that takes a sentence input by the user an
 [Strings and Loops Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/strings_and_loops.py)<br/><br/>
 Program Output:<br/>
 <IMG SRC="Media/PythonStringsAndLoops.png" width="250" height="318"> <br/>
-
 <br/></details>
  
 <details><summary><b>Spicy Version</b></summary><br/>
@@ -88,7 +84,6 @@ Program Output:<br/>
 [Strings and Loops Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/strings_and_loops_spicy.py)<br/><br/>
 Program Output:<br/>
 <IMG SRC="Media/PythonStringsAndLoops.png" width="250" height="318"> <br/>
-
 <br/></details>
  
 ### Reflection
@@ -108,7 +103,6 @@ In this assignment I learned a few things, but didn't run in to any major obstac
 [Hangman Vanilla Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/hangman.py)<br/><br/>
 Program Output:<br/>
 <IMG SRC="Media/PythonHangman.png" width="250" height="977"> <br/>
-
 <br/></details>
  
 <details><summary><b>Spicy Version</b></summary><br/>
@@ -116,7 +110,6 @@ Program Output:<br/>
 [Hangman Spicy Version Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/hangman_spicy.py)<br/><br/>
 Program Output:<br/>
 <IMG SRC="Media/PythonHangmanSpicy.png" width="250" height="164"> <br/>
-
 <br/></details>
  
  ### Reflection
@@ -130,4 +123,4 @@ In this assignment, I created a Python program to solve any sudoku board, first 
 ### Evidence
 
 ### Reflection
-To decrease the scale of the code, I started by creating a program to solve a 4x4 sudoku. I tried to figure out the solving algorithm on my own, which led to using a very inefficient algorithm in which every possible row would be checked against the constraints given the numbers in the empty puzzle in that row, then all possible rows would be compared to see which combinations had different numbers in each column. In doing this, I learned how to use the numpy library to make arrays since this is faster than Python lists. While this worked for a 4x4 sudoku, it was far too inefficient for a 9x9 due to number of operations increasing by several orders of magnitude. When I realized that this algorithm wouldn't work for a 9x9 sudoku board, I found a solving algorithm on [this](http://www.tutorialspoint.com/questions/question.php?qid=Sudoku-Solving-algorithms) website, then translated this logic to Python code. The crucial part of the algorithm that I didn't understand was its use of recursive functions for backtracking. My understanding is that it works by testing a number in each place, starting at the top left, and moving to the right and down if the number it tests works. Here's the cool but confusing part: when it reaches a point where no number works, since the function is called inside itself, it goes back a step and tries the next number. This allows it to efficiently try many combinations, gradually finding the only possible numbers from the top right down, until it finds a solution. [Here](https://www.cis.upenn.edu/~matuszek/cit594-2012/Pages/backtracking.html) is a better explanation of backtracking that I found.
+To decrease the scale of the code, I started by creating a program to solve a 4x4 sudoku. I tried to figure out the solving algorithm on my own, which led to using a very inefficient algorithm in which every possible row would be checked against the constraints given the numbers in the empty puzzle in that row, then all possible rows would be compared to see which combinations had different numbers in each column. In doing this, I learned how to use the numpy library to make arrays since this is faster than Python lists. While this worked for a 4x4 sudoku, it was far too inefficient for a 9x9 due to number of operations increasing by several orders of magnitude, so I found a solving algorithm on [this](http://www.tutorialspoint.com/questions/question.php?qid=Sudoku-Solving-algorithms) website, then translated this logic to Python code. The crucial part of the algorithm that I didn't understand was its use of recursive functions for backtracking. It works by testing a number in each place, starting at the top left, and moving to the right and down if the number it tests works. Here's the interesting backtracking prat: when it reaches a point where no number works, since the function is called inside itself, it goes back a step and tries the next number. This allows it to efficiently try many combinations, gradually finding the only possible numbers until it finds a solution. [Here](https://www.cis.upenn.edu/~matuszek/cit594-2012/Pages/backtracking.html) is a good explanation of how backtracking works. After all of this, I decided to use Pygame to display the solving algorithm graphically, which wasn't particularly hard, just a matter of learning Pygame syntax and structure.
