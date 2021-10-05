@@ -7,6 +7,7 @@
 * [Python_Strings_and_Loops](#Python_Strings_and_Loops)
 * [Python_MSP](#Python_MSP) (Hangman)
 * [Python_Sudoku_Solver](#Python_Sudoku_Solver)
+* [Onshape_Swing_Arm](#Onshape_Swing_Arm)
 ---
 
 
@@ -124,3 +125,12 @@ In this assignment, I created a Python program to solve any sudoku board, first 
 
 ### Reflection
 To decrease the scale of the code, I started by creating a program to solve a 4x4 sudoku. I tried to figure out the solving algorithm on my own, which led to using a very inefficient algorithm in which every possible row would be checked against the constraints given the numbers in the empty puzzle in that row, then all possible rows would be compared to see which combinations had different numbers in each column. In doing this, I learned how to use the numpy library to make arrays since this is faster than Python lists. While this worked for a 4x4 sudoku, it was far too inefficient for a 9x9 due to number of operations increasing by several orders of magnitude, so I found a solving algorithm on [this](http://www.tutorialspoint.com/questions/question.php?qid=Sudoku-Solving-algorithms) website, then translated this logic to Python code. The crucial part of the algorithm that I didn't understand was its use of recursive functions for backtracking. It works by testing a number in each place, starting at the top left, and moving to the right and down if the number it tests works. Here's the interesting backtracking prat: when it reaches a point where no number works, since the function is called inside itself, it goes back a step and tries the next number. This allows it to efficiently try many combinations, gradually finding the only possible numbers until it finds a solution. [Here](https://www.cis.upenn.edu/~matuszek/cit594-2012/Pages/backtracking.html) is a good explanation of how backtracking works. After all of this, I decided to use Pygame to display the solving algorithm graphically, which wasn't particularly hard, just a matter of learning Pygame syntax and structure.
+ 
+## Onshape_Swing_Arm
+ 
+### Assignment Description
+In this assignment, I used several dimensioned drawings and cross sections of a part to recreate the part, and tested whether my replica was accurate by comparing its mass.
+
+### Evidence
+ 
+### Reflection
