@@ -122,6 +122,9 @@ None of the logic in this assignment was too challenging, but I did learn some t
 In this assignment, I created a Python program to solve any sudoku board, first for a 4x4 board, then a 9x9. I then used [Pygame](https://www.pygame.org/wiki/about), a set of modules for Python that work on top of the [SDL](http://www.libsdl.org/) library, to print out the board as it is being solved.
 
 ### Evidence
+[Sudoku Solver 4x4 Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/sudoku_solver_4x4.py)
+[Sudoku Solver 9x9 Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/sudoku_solver_9x9.py)
+[Sudoku Solver With Display Code](https://github.com/adent11/Engineering_4_Notebook/blob/main/Python/sudoku_solver_9x9_pygame_display.py)
 Graphical window showing backtracking algorithm <br/>
 <IMG SRC="Media/PythonSudokuSolver9x9PygameGraphics.gif" width="250" height="250"> <br/>
 
