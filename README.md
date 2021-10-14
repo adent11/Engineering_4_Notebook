@@ -126,11 +126,16 @@ In this assignment, I created a Python program to solve any sudoku board, first 
 ### Reflection
 To decrease the scale of the code, I started by creating a program to solve a 4x4 sudoku. I tried to figure out the solving algorithm on my own, which led to using a very inefficient algorithm in which every possible row would be checked against the constraints given the numbers in the empty puzzle in that row, then all possible rows would be compared to see which combinations had different numbers in each column. In doing this, I learned how to use the numpy library to make arrays since this is faster than Python lists. While this worked for a 4x4 sudoku, it was far too inefficient for a 9x9 due to number of operations increasing by several orders of magnitude, so I found a solving algorithm on [this](http://www.tutorialspoint.com/questions/question.php?qid=Sudoku-Solving-algorithms) website, then translated this logic to Python code. The crucial part of the algorithm that I didn't understand was its use of recursive functions for backtracking. It works by testing a number in each place, starting at the top left, and moving to the right and down if the number it tests works. Here's the interesting backtracking prat: when it reaches a point where no number works, since the function is called inside itself, it goes back a step and tries the next number. This allows it to efficiently try many combinations, gradually finding the only possible numbers until it finds a solution. [Here](https://www.cis.upenn.edu/~matuszek/cit594-2012/Pages/backtracking.html) is a good explanation of how backtracking works. After all of this, I decided to use Pygame to display the solving algorithm graphically, which wasn't particularly hard, just a matter of learning Pygame syntax and structure.
  
-## Onshape_Swing_Arm
+## Onshape_CAD_Intro
  
 ### Assignment Description
-In this assignment, I used several dimensioned drawings and cross sections of a part to recreate the part, and tested whether my replica was accurate by comparing its mass.
+In this assignment, I followed the [CAD Intro Onshape tutorial](https://cvilleschools.onshape.com/documents/ce5ac8909ec93f2ab937afda/w/77af2f4715cd6b9dc0f3d968/e/1cf175a4a9e7faeb7db52e25) and created a skateboard with trucks, wheels, and bearings.
 
 ### Evidence
- 
+<IMG SRC="Media/OnshapeCADIntro.PNG" width="250" height="110"> <br/>
+
+### Part Link
+[CAD Intro Part](https://cvilleschools.onshape.com/documents/1455c1368501d22d142282f1/w/1e315f3e6a2755c6cbb794c2/e/cf1f6821b95f1639e5be1e12?renderMode=0&uiState=616855bd7b757264a0da7982)
+
 ### Reflection
+This tutorial wasn't challenging to follow since it is geared towards people without CAD experience, but I still learned a few useful shortcuts. There is a hole tool in part studios that allows you to create holes for standard content (bolts and screws) to go in. Also, when adding standard content in multiple places in an assembly, the replicate tool allows you to add it in all places more easily.
