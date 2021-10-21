@@ -9,4 +9,8 @@
 # print(character) for character in input() iterates through each character of the string
 # and prints that character
 
+# The brackets go around it since it is a list comprehension, which is designed so you can create
+# lists with for loops on the same line, but in this case the code just prints the character rather
+# than creating a list
+
 [print(character) for character in input("Type in your text, then press Enter:").replace(" ", "-") + "-"]
