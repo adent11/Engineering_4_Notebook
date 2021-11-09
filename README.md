@@ -144,3 +144,13 @@ In this assignment, I followed the [CAD Intro Onshape tutorial](https://cvillesc
 
 ### Reflection
 This tutorial wasn't challenging to follow since it is geared towards people without CAD experience, but I still learned a few useful shortcuts. There is a hole tool in part studios that allows you to create holes for standard content (bolts and screws) to go in. Also, when adding standard content in multiple places in an assembly, the replicate tool allows you to add it in all places more easily.
+
+## Onshape_Legos
+
+### Assignment Description
+
+### Evidence
+
+### Part Link
+
+### Reflection
