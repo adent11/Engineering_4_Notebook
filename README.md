@@ -152,7 +152,10 @@ This tutorial wasn't challenging to follow since it is geared towards people wit
 For this assignment, I followed the [Intro to Cad - 3.1-3.4](https://cvilleschools.onshape.com/documents/d2d156bfb1db472973063473/w/2ec44ccdcd6dacf683eb0c6f/e/449d413b724c54cc4db32973) Onshape tutorial and created a lego with many configurations and a couple assemblies with detailed drawings.
 
 ### Evidence
+<IMG SRC="Media/OnshapeLegos.PNG" width="250" height="152"> <br/>
 
 ### Part Link
-
+[Onshape Lego Part](https://cvilleschools.onshape.com/documents/d4b9e0ac6ea41f5ac0f2d261/w/901fc85d311634cdd81c72a0/e/82f54bcae5a80b14d8d8f5cb)
+ 
 ### Reflection
+In this tuturial I learned how to use snap mode in assemblies to easily mate two features with well placed mate connectors. I also learned how to make drawings that clearly communicate design of assemblies by using exploded views, bills of materials, and callouts.
