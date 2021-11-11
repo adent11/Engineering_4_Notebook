@@ -8,6 +8,7 @@
 * [Python_MSP](#Python_MSP) (Hangman)
 * [Python_Sudoku_Solver](#Python_Sudoku_Solver)
 * [Onshape_CAD_Intro](#Onshape_CAD_Intro)
+* [Onshape_Legos](#Onshape_Legos)
 ---
 
 
@@ -148,6 +149,7 @@ This tutorial wasn't challenging to follow since it is geared towards people wit
 ## Onshape_Legos
 
 ### Assignment Description
+For this assignment, I followed the [Intro to Cad - 3.1-3.4](https://cvilleschools.onshape.com/documents/d2d156bfb1db472973063473/w/2ec44ccdcd6dacf683eb0c6f/e/449d413b724c54cc4db32973) Onshape tutorial and created a lego with many configurations and a couple assemblies with detailed drawings.
 
 ### Evidence
 
