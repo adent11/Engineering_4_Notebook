@@ -11,7 +11,7 @@ oneLeg =  "  /"
 twoLegs = "  / \ "
 
 def drawHangman(lives): # Draws the hangman in the correct state given the amount of lives remaining
-    print("---┐") # Draws the noose
+    print("---|") # Draws the noose
     if lives == 7:
         print("") # No body parts
         print("")
