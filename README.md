@@ -167,6 +167,7 @@ In this tuturial I learned how to use snap mode in assemblies to easily mate two
 In this assignment I created a multi-tool with rulers, a protractor, and hex wrench in Onshape, then laser cut it.
 
 ### Evidence
+<IMG SRC="Media/OnshapeMultiTool.PNG" width="250" height="152"> <br/>
  
 ### Part Link
 [Onshape Multi-Tool Part](https://cvilleschools.onshape.com/documents/eab11580c3b34a0e9e279774/w/e12b8caf1de425bace48459f/e/b1e3a10a46bf68d46fa88723)
