@@ -181,12 +181,12 @@ The Onshape part of this assignment was pretty simple, but the lasercutting port
 In this assignment I used a Raspberry Pi and Python to blink to LEDs.
  
 ### Evidence
- 
+![caption](link to image / GIF)
 ### Wiring
 <IMG SRC="Media/RaspberryPiLEDBlinkWiring.png" width="250" height="333"> <br/>
  
 ### Reflection
-This assignment taught me how to use Raspberry Pi GPIO and how to use it from a Python script. I also relearned how to wire an LED
+This assignment taught me how to use Raspberry Pi GPIO and how to use it from a Python script using the ```RPi.GPIO``` library. I also relearned how to wire an LED.
 
 ## Raspberry_Pi_Shutdown_Button
  
@@ -199,3 +199,4 @@ In this assignment I made a program run in the background when my Raspberry Pi i
 <IMG SRC="Media/RaspberryPiShutdownButtonWiring.png" width="250" height="333"> <br/>
  
 ### Reflection
+While my code for this assignment was almost entirely copied from a tutorial, I still learned how to run Python code when the Pi turns on using ```/etc/rc.local```.
