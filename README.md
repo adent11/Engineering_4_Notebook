@@ -173,7 +173,7 @@ In this assignment I created a multi-tool with rulers, a protractor, and hex wre
 [Onshape Multi-Tool Part](https://cvilleschools.onshape.com/documents/eab11580c3b34a0e9e279774/w/e12b8caf1de425bace48459f/e/b1e3a10a46bf68d46fa88723)
  
 ### Reflection
-The Onshape part of this assignment was pretty simple, but the lasercutting portion was instructive. I learned how to create a dxf file from the document and relearned the process of using the laser cutter.
+The Onshape part of this assignment was pretty simple, but the lasercutting portion was instructive. I learned how to create a dxf file from the Onshape document and relearned the process of using the laser cutter.
  
 ## Raspberry_Pi_LED_Blink
  
