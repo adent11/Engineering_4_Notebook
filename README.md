@@ -183,16 +183,19 @@ In this assignment I used a Raspberry Pi and Python to blink to LEDs.
 ### Evidence
  
 ### Wiring
+<IMG SRC="Media/RaspberryPiLEDBlinkWiring.png" width="250" height="333"> <br/>
  
 ### Reflection
+This assignment taught me how to use Raspberry Pi GPIO and how to use it from a Python script. I also relearned how to wire a 
 
 ## Raspberry_Pi_Shutdown_Button
-In this assignment I 
  
 ### Assignment Description
+In this assignment I made a program run in the background when my Raspberry Pi is on and turn it off or reset it when a button is pressed.
  
 ### Evidence
  
 ### Wiring
+<IMG SRC="Media/RaspberryPiShutdownButtonWiring.png" width="250" height="333"> <br/>
  
 ### Reflection
