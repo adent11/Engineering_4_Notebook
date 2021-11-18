@@ -186,7 +186,7 @@ In this assignment I used a Raspberry Pi and Python to blink to LEDs.
 <IMG SRC="Media/RaspberryPiLEDBlinkWiring.png" width="250" height="333"> <br/>
  
 ### Reflection
-This assignment taught me how to use Raspberry Pi GPIO and how to use it from a Python script. I also relearned how to wire a 
+This assignment taught me how to use Raspberry Pi GPIO and how to use it from a Python script. I also relearned how to wire an LED
 
 ## Raspberry_Pi_Shutdown_Button
  
