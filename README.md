@@ -178,6 +178,7 @@ The Onshape part of this assignment was pretty simple, but the lasercutting port
 ## Raspberry_Pi_LED_Blink
  
 ### Assignment Description
+In this assignment I used a Raspberry Pi and Python to blink to LEDs.
  
 ### Evidence
  
@@ -186,6 +187,7 @@ The Onshape part of this assignment was pretty simple, but the lasercutting port
 ### Reflection
 
 ## Raspberry_Pi_Shutdown_Button
+In this assignment I 
  
 ### Assignment Description
  
