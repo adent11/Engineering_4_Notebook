@@ -1,3 +1,5 @@
+# Code borrowed from https://learn.sparkfun.com/tutorials/raspberry-pi-safe-reboot-and-shutdown-button/all
+
 import time
 import RPi.GPIO as GPIO #Python Package Reference: https://pypi.org/project/RPi.GPIO/
 

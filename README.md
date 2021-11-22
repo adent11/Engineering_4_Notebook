@@ -164,20 +164,39 @@ In this tuturial I learned how to use snap mode in assemblies to easily mate two
 ## Onshape_Multi-Tool
 
 ### Assignemnt Description
- 
+In this assignment I created a multi-tool with rulers, a protractor, and hex wrench in Onshape, then laser cut it.
+
 ### Evidence
+<IMG SRC="Media/OnshapeMultiTool.png" width="250" height="253"> <br/>
  
 ### Part Link
 [Onshape Multi-Tool Part](https://cvilleschools.onshape.com/documents/eab11580c3b34a0e9e279774/w/e12b8caf1de425bace48459f/e/b1e3a10a46bf68d46fa88723)
  
 ### Reflection
-
+The Onshape part of this assignment was pretty simple, but the lasercutting portion was instructive. I learned how to create a dxf file from the Onshape document and relearned the process of using the laser cutter.
+ 
 ## Raspberry_Pi_LED_Blink
  
 ### Assignment Description
+In this assignment I used a Raspberry Pi and Python to blink to LEDs.
+ 
+### Evidence
+![caption](link to image / GIF)
+### Wiring
+<IMG SRC="Media/RaspberryPiLEDBlinkWiring.png" width="250" height="333"> <br/>
+ 
+### Reflection
+This assignment taught me how to use Raspberry Pi GPIO and how to use it from a Python script using the ```RPi.GPIO``` library. I also relearned how to wire an LED.
+
+## Raspberry_Pi_Shutdown_Button
+ 
+### Assignment Description
+In this assignment I made a program run in the background when my Raspberry Pi is on and turn it off or reset it when a button is pressed.
  
 ### Evidence
  
 ### Wiring
+<IMG SRC="Media/RaspberryPiShutdownButtonWiring.png" width="250" height="333"> <br/>
  
 ### Reflection
+While my code for this assignment was almost entirely copied from a tutorial, I still learned how to run Python code when the Pi turns on using ```/etc/rc.local```.
