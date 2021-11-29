@@ -32,9 +32,9 @@ while True:
   accel, mag = lsm303.read()
   # Grab the X, Y, Z components from the reading and print them out.
   accel_x, accel_y, accel_z = accel
-  draw.text((x, top),    "x: " + (str(accel_x/107)),  font=font, fill=255)
-  draw.text((x, top+20), "y: " + (str(accel_y/107)), font=font, fill=255)
-  draw.text((x, top+40), "z: "  + (str(accel_z/107)), font=font, fill=255)
+  draw.text((x, top),    "x: " + (str(round(accel_x/107, 3))),  font=font, fill=255)
+  draw.text((x, top+20), "y: " + (str(round(accel_y/107, 3))), font=font, fill=255)
+  draw.text((x, top+40), "z: "  + (str(round(accel_z/107, 3))), font=font, fill=255)
   
   disp.image(image)
   disp.display()
