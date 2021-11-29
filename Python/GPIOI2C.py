@@ -22,6 +22,9 @@ padding = 3
 top = padding
 bottom = height-padding
 
+font = ImageFont.load_default()
+draw = ImageDraw.Draw(image)
+
 while True:
   draw.rectangle((0,0,width,height), outline=0, fill=0)
   
