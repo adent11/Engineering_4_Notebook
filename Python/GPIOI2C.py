@@ -22,6 +22,7 @@ padding = 3
 top = padding
 bottom = height-padding
 
+image = Image.new('1', (width, height))
 font = ImageFont.load_default()
 draw = ImageDraw.Draw(image)
 
@@ -35,4 +36,5 @@ while True:
   draw.text((x, top+20), "y: " + (str(accel_y)), font=font, fill=255)
   draw.text((x, top+40), "z: "  + (str(accel_z)), font=font, fill=255)
   
+  disp.image(image)
   disp.display()
