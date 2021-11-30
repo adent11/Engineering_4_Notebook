@@ -30,7 +30,7 @@ draw = ImageDraw.Draw(image)
 maxFontWidth, maxFontHeight = font.getsize("x:-99.99")
 
 centerX = (width + maxFontWidth + padding)//2
-centerY = (height + maxFontHeight + padding)//2
+centerY = (height - maxFontHeight - padding)//2
 circleRad = 4
 
 
