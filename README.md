@@ -204,7 +204,7 @@ While my code for this assignment was almost entirely copied from a tutorial, I 
 ## Raspberry_Pi_GPIO_I2C
  
 ### Assignment Description
-In this assignment I learned how to use (I2C)[https://www.i2c-bus.org/] to get input from an accelerometer and output to an OLED screen.
+In this assignment I learned how to use [I2C](https://www.i2c-bus.org/) to get input from an accelerometer and output to an OLED screen.
  
 ### Evidence
  
