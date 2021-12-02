@@ -198,6 +198,8 @@ This assignment taught me how to use Raspberry Pi GPIO and how to use it from a 
 In this assignment, I made a program run in the background when my Raspberry Pi is on and turn it off or reset it when a button is pressed.
  
 ### Evidence
+
+<IMG SRC="Media/RaspberryPiShutdownButton.gif" width = "250" height = "141"><br/>
  
 ### Wiring
 <IMG SRC="Media/RaspberryPiShutdownButtonWiring.png" width="250" height="333"> <br/>
@@ -212,6 +214,8 @@ In this assignment I learned how to use [I2C](https://www.i2c-bus.org/) to get i
  
 ### Evidence
  
+<IMG SRC="Media/RaspberryPiGPIOI2C.gif" width = "250" height = "141"><br/>
+ 
 ### Wiring
 <IMG SRC="Media/AccelerometerWiring.png" width = "250" height = "188"><br/>
 
@@ -225,7 +229,7 @@ In this assignment, I changed the output to the OLED to be a graphical represent
 
 ### Evidence
 
-<IMG SRC="Media/RaspberryPiHeadlessAccelerometer.gif" width = "250" height = "188"><br/>
+<IMG SRC="Media/RaspberryPiHeadlessAccelerometer.gif" width = "250" height = "141"><br/>
  
 ### Wiring
 <IMG SRC="Media/AccelerometerWiring.png" width = "250" height = "188"><br/>
