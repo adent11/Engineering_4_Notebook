@@ -191,7 +191,7 @@ This assignment taught me how to use Raspberry Pi GPIO and how to use it from a 
 ## Raspberry_Pi_Shutdown_Button
  
 ### Assignment Description
-In this assignment I made a program run in the background when my Raspberry Pi is on and turn it off or reset it when a button is pressed.
+In this assignment, I made a program run in the background when my Raspberry Pi is on and turn it off or reset it when a button is pressed.
  
 ### Evidence
  
@@ -200,3 +200,30 @@ In this assignment I made a program run in the background when my Raspberry Pi i
  
 ### Reflection
 While my code for this assignment was almost entirely copied from a tutorial, I still learned how to run Python code when the Pi turns on using ```/etc/rc.local```.
+ 
+## Raspberry_Pi_GPIO_I2C
+ 
+### Assignment Description
+In this assignment I learned how to use (I2C)[https://www.i2c-bus.org/] to get input from an accelerometer and output to an OLED screen.
+ 
+### Evidence
+ 
+### Wiring
+<IMG SRC="Media/AccelerometerWiring.png" width = "250" height = "188"><br/>
+
+### Reflection
+The hardest part of this assignment was dealing with github and the new libraries; since the libraries are github repos, they can't be added to this repo without causing unwanted behavior. This came about because I had been using ```git add .```, which adds all changes to git rather than adding them individually, which meant that the libraries were added. Other than this, the code aspect wasn't too challenging, just a matter of combining a couple examples from the libraries for the accelerometer and OLED.
+
+## Raspberry_Pi_Headless_Accelerometer
+
+### Assignment Description
+In this assignment, I changed the output to the OLED to be a graphical representation of the accelerometer data, then created a service and added it to systemd so the program would run on boot, allowing it to be used with a battery separate from another computer.
+
+### Evidence
+ 
+### Wiring
+<IMG SRC="Media/AccelerometerWiring.png" width = "250" height = "188"><br/>
+
+### Reflection
+The Python portion of this assignment was a bit tedious (centering the text, centering the bubble based on the text, constraining the movement of the bubble, etc.), but I didn't find it too challenging. The more confusing part for me was creating a service on the Raspberry Pi and adding it to systemd so it runs when the Pi turns on. The two minor mistakes that it took a while to sort out were misspelling the path to the Python file to run and leaving comments in the service file, but after those were fixed, it worked fine.
+ 
