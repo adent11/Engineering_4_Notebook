@@ -224,6 +224,8 @@ The hardest part of this assignment was dealing with github and the new librarie
 In this assignment, I changed the output to the OLED to be a graphical representation of the accelerometer data, then created a service and added it to systemd so the program would run on boot, allowing it to be used with a battery separate from another computer.
 
 ### Evidence
+
+<IMG SRC="Media/RaspberryPiHeadlessAccelerometer.gif" width = "250" height = "188"><br/>
  
 ### Wiring
 <IMG SRC="Media/AccelerometerWiring.png" width = "250" height = "188"><br/>
