@@ -184,8 +184,9 @@ The Onshape part of this assignment was pretty simple, but the lasercutting port
 In this assignment I used a Raspberry Pi and Python to blink to LEDs.
  
 ### Evidence
-![caption](link to image / GIF)
-### Wiring
+<br/><IMG SRC="Media/RaspberryPiLEDBlink.gif" width="250" height="444"><br/>
+
+ ### Wiring
 <IMG SRC="Media/RaspberryPiLEDBlinkWiring.png" width="250" height="333"> <br/>
  
 ### Reflection
