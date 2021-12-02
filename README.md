@@ -9,7 +9,10 @@
 * [Python_Sudoku_Solver](#Python_Sudoku_Solver)
 * [Onshape_CAD_Intro](#Onshape_CAD_Intro)
 * [Onshape_Legos](#Onshape_Legos)
-* [Raspberry_Pi_LED_Blink](#)
+* [Raspberry_Pi_LED_Blink](#Raspberry_Pi_Led_Blink)
+* [Raspberry_Pi_Shutdown_Button](#Raspberry_Pi_Shutdown_Button)
+* [Raspberry_Pi_GPIO_I2C](#Raspberry_Pi_GPIO_I2C)
+* [Raspberry_Pi_Headless_Accelerometer](#Raspberry_Pi_Headless_Accelerometer)
 ---
 
 
