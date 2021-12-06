@@ -1,9 +1,9 @@
-from picamera import PiCamera
+import time
+import picamera
 
-from time import sleep
-
-camera = PiCamera()
-camera.start_preview(alpha=192)
-sleep(1)
-camera.capture("/home/pi/Engineering_4_Notebook/Media/testPic.jpg")
-camera.stop_preview()
+with picamera.PiCamera() as camera:
+    camera.resolution = (1024, 768)
+    camera.start_preview()
+    # Camera warm-up time
+    time.sleep(2)
+    camera.capture('../Media/camera_test.jpg')
