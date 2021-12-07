@@ -13,6 +13,7 @@
 * [Raspberry_Pi_Shutdown_Button](#Raspberry_Pi_Shutdown_Button)
 * [Raspberry_Pi_GPIO_I2C](#Raspberry_Pi_GPIO_I2C)
 * [Raspberry_Pi_Headless_Accelerometer](#Raspberry_Pi_Headless_Accelerometer)
+* [Raspberry_Pi_Camera](#Raspberry_Pi_Camera)
 ---
 
 
@@ -228,7 +229,6 @@ The hardest part of this assignment was dealing with github and the new librarie
 In this assignment, I changed the output to the OLED to be a graphical representation of the accelerometer data, then created a service and added it to systemd so the program would run on boot, allowing it to be used with a battery separate from another computer.
 
 ### Evidence
-
 <IMG SRC="Media/RaspberryPiHeadlessAccelerometer.gif" width = "250" height = "141"><br/>
  
 ### Wiring
@@ -237,3 +237,17 @@ In this assignment, I changed the output to the OLED to be a graphical represent
 ### Reflection
 The Python portion of this assignment was a bit tedious (centering the text, centering the bubble based on the text, constraining the movement of the bubble, etc.), but I didn't find it too challenging. The more confusing part for me was creating a service on the Raspberry Pi and adding it to systemd so it runs when the Pi turns on. The two minor mistakes that it took a while to sort out were misspelling the path to the Python file to run and leaving comments in the service file, but after those were fixed, it worked fine.
  
+## Raspberry_Pi_Camera
+ 
+### Assignment Description
+In this assignment, I used the camera port on the Raspberry Pi and a camera to take pictures. I then added filters.
+ 
+### Evidence
+<details><summary><b>Pi Camera Pictures</b></summary><br/>
+<IMG SRC="Media/imageWithdenoise.jpg" width = "250" height = "188"><IMG SRC="Media/imageWithemboss.jpg" width = "250" height = "188"><IMG SRC="Media/imageWithoilpaint.jpg" width = "250" height = "188"><IMG SRC="Media/imageWithsketch.jpg" width = "250" height = "188"><IMG SRC="Media/imageWithsolarize.jpg" width = "250" height = "188">
+<br/></details>
+ 
+### Wiring
+<IMG SRC="Media/CameraWiring.png" width = "250" height = "188"><br/>
+
+### Reflection
