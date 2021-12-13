@@ -1,6 +1,7 @@
 import picamera
 import RPi.GPIO as GPIO #Python Package Reference: https://pypi.org/project/RPi.GPIO/
 import os
+import time
 
 # Pin definition
 cameraPin = 21
