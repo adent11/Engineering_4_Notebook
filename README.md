@@ -261,5 +261,6 @@ In this assignment, I made the camera take a picture each time a button is press
 <IMG SRC="Media/StopMotion1/StopMotion1.gif" width = "250" height = "188">
  
 ### Wiring
- 
+<IMG SRC="Media/ButtonCamera.png" width = "250" height = "188"><br/>
+
 ### Reflection
