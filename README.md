@@ -264,3 +264,4 @@ In this assignment, I made the camera take a picture each time a button is press
 <IMG SRC="Media/ButtonCameraWiring.png" width = "250" height = "188"><br/>
 
 ### Reflection
+This assignment wasn't too hard since I had already used a button and the camera. I did learn how to use the os module in Python to handle creating folders. The pictures for each stop motion project went into a new folder using the ```os.mkdir(path)``` command. One slight issue came when trying to create a folder that already existed, which I could have handled by checking whether a certain directory already existed using os.path and the ```os.path.isdir(path)``` command.
