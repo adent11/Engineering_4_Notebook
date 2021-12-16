@@ -14,6 +14,7 @@
 * [Raspberry_Pi_GPIO_I2C](#Raspberry_Pi_GPIO_I2C)
 * [Raspberry_Pi_Headless_Accelerometer](#Raspberry_Pi_Headless_Accelerometer)
 * [Raspberry_Pi_Camera](#Raspberry_Pi_Camera)
+* [Raspberry_Pi_Stop_Motion_Camera](#Raspberry_Pi_Stop_Motion_Camera)
 ---
 
 
@@ -252,3 +253,13 @@ In this assignment, I used the camera port on the Raspberry Pi and a camera to t
 
 ### Reflection
 The logic of this assignment wasn't complex, I just had to find and use simple example code to figure out how to use the camera. One interesting thing this code used is the Python ```with```, which I had seen used in the context of managing files, but in this case condenses a few lines of initializing and exiting the camera object into one.
+ 
+## Raspberry_Pi_Stop_Motion_Camera
+In this assignment, I made the camera take a picture each time a button is pressed, allowing for easy creation of simple stop motion animations.
+ 
+### Evidence
+<IMG SRC="Media/StopMotion1/StopMotion1.gif" width = "250" height = "188">
+ 
+### Wiring
+ 
+### Reflection
